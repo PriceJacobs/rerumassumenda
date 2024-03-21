@@ -1,0 +1,36 @@
+{
+  "name": "rerumassumenda",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for the mongo CLI",
+  "main": "dist/index.js",
+  "typings": "dist/index",
+  "files": [
+    "dist/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PriceJacobs/rerumassumenda.git"
+  },
+  "keywords": [
+    "mongodb",
+    "iure"
+  ],
+  "author": "RonaldoDuBuque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PriceJacobs/rerumassumenda.git/issues"
+  },
+  "devDependencies": {
+    "blue-tape": "^0.2.0",
+    "bluebird": "^3.4.0",
+    "rimraf": "^2.5.2",
+    "tap-diff": "^0.1.1",
+    "ts-node": "^0.7.3",
+    "tslint": "^3.10.2",
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "lodash": "^4.13.1"
+  }
+}
